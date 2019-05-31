@@ -30,6 +30,5 @@ void loop()
         digitalWrite(4, HIGH);
         digitalWrite(5, LOW);
         delay(250); // wait for a quarter second
-
     }
 } // go back to the beginning of the loop
