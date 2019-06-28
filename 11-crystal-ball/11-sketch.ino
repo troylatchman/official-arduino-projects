@@ -20,7 +20,7 @@ void loop()
     switchState = digitalRead(switchPin);
     if (switchState != prevSwitchState)
     {
-        if (switchState == LOW)
+        if (switchState == HIGH)
         {
             reply = random(8);
             lcd.clear();
@@ -56,5 +56,5 @@ void loop()
         }
     }
     prevSwitchState = switchState;
-    delay(200);
+    delay(20);
 }
