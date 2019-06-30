@@ -7,5 +7,5 @@ The .vscode folder has not been checked in, which contains configs for the Ardui
 Further reading on the extension can be found: https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
 
 There is nothing special about the code found in this repository as it should be one to one with the code provided in the book/pdf. 
-Pictures of the board/circuit are provided for each project.
-I hope to complete all 15 projects.
+The final circuits (actual pictures) are provided alongside the code.
+All 15 projects have been completed.
